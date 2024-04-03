@@ -6,3 +6,6 @@ VALUES ("War and Peace", "Leo Tolstoy", "Historical", '1869-01-01', "12345678901
 
 INSERT INTO Books (title, author, genere, published_year, isbn, price, rating, stock_count, publisher, pages)
 VALUES ("Whispers of the Wind", "Amelia Blackburn", "Romance", '1982-01-01', "1234567890125", 9.99, 4.2, 20, "Blackburn House", 275);
+
+INSERT INTO Books (title, author, genere, published_year, isbn, price, rating, stock_count, publisher, pages)
+VALUES("The Galactic Odyssey" , "Orion Starfield" , "Science Fiction" , '2005-01-01' , "1234567890126",19.99,4.9,15."Nebula Press",450)
